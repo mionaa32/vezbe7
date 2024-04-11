@@ -1,0 +1,11 @@
+{
+  "name": "vezbe7",
+  "version": "1.0.0",
+  "description": "vezbe7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miona",
+  "license": "ISC"
+}
